@@ -1,0 +1,13 @@
+{
+  "author": "Startmate",
+  "name": "knockout-tournament",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node ./server/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}
