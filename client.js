@@ -1,5 +1,6 @@
 // Edit me.
-const SERVER_URL = "http://localhost:8765";
+// const SERVER_URL = "http://localhost:8765";
+const SERVER_URL = "https://knockout-tournament.herokuapp.com";
 
 class Team {
   constructor(teamId, name, rating) {
